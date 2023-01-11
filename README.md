@@ -5,3 +5,5 @@ hgiordano888 - software engineer https://codermerlin.com/users/helen-giordano/Di
 
 Mehak-J - Development(Software) Engineer
   https://codermerlin.com/users/mehak-jay/Digital%20Portfolio/index.html
+MasonG31- Product Manager
+        https://codermerlin.com/users/mason-graham/Digital%20Portfolio/index.html
